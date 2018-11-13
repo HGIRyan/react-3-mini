@@ -178,7 +178,7 @@ class App extends Component {
         <ToastContainer />
 
         <header className="header">
-          <img src={logo} alt="" />
+          <img src='https://preview.redd.it/kynig3ebf3y11.jpg?width=640&crop=smart&auto=webp&s=4b32a6b5d3007f39d451377f7fbd37f3631a6c52' alt="" />
 
           <button
             className="header-btn1 btn"
